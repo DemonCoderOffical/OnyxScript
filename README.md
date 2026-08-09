@@ -33,7 +33,14 @@ python onyx.py
 
 ```text
 // Example OnyxScript code
+WINDOW("Windows name")
+LABEL("Label")
+BUTTON("Button")
 
+#Adding the color module
+ADD COLORS.
+CHANGE_BTN_COLOR TO "blue"
+CHANGE_BG_COLOR TO "lightgray"
 ```
 
 ## 🛠️ Built With
