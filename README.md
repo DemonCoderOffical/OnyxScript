@@ -30,14 +30,10 @@ python onyx.py
 ```
 
 ## 📝 Example Syntax
-*(Tip: Replace this section with a real example of your 10-line app language syntax so developers can see how it works!)*
 
 ```text
 // Example OnyxScript code
-Create App "MyFirstApp"
-Set Window Size 800x600
-Add Button "Click Me"
-Display App
+
 ```
 
 ## 🛠️ Built With
