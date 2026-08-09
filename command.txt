@@ -1,0 +1,18 @@
+Variables, Input, and OutputPRINT(content): Prints any text, expression result, or variable value directly to the console.  
+VARS: Dumps and prints the entire current memory state, showing all active variable names and their values.
+var name = value or SET name = 
+value: Defines a new variable or updates an existing one in memory.
+PUT(): Prompts the user to input data from the terminal dynamically during script execution.
+2. Graphical User Interface (GUI)If a script contains a window declaration, the interpreter activates the graphical environment:  
+WINDOW("Title"): Creates a main graphical window with the specified title (automatically handles Arabic text reshaping).
+LABEL("Text"): Adds a text label widget inside the GUI window.
+BUTTON("Text"): Adds a clickable button widget inside the GUI window.
+3. Colors Module CommandsTo style UI elements, the color module must be explicitly loaded: 
+ADD COLORS.: Loads and enables the color module for styling commands.
+CHANGE_BTN_COLOR TO "color_name": Changes the background color of the most recently created button (requires ADD COLORS.to be loaded first).
+CHANGE_BG_COLOR TO "color_name": Changes the background color of the main application window (requires ADD COLORS. to be loaded first).
+4. Module Importing and ManagementGET module_name ADD feature_name.: Imports a specific feature or utility from an external module (there os no a lot modules).
+5. Execution Flow Modifiers You can control the execution sequence or chain commands within script lines using keywords such as:
+AFTER: Executes the first command after the second one completes.
+BEFORE: Executes the first command before the second one.  
+THEN: Executes commands sequentially one after another.  
