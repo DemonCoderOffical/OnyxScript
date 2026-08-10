@@ -36,14 +36,15 @@ python onyx.py
 
 ```OnyxScript
 // Example OnyxScript code
-WINDOW("Windows name")
-LABEL("Label")
-BUTTON("Button")
-
 #Adding the color module
 ADD COLORS.
 CHANGE_BTN_COLOR TO "blue"
 CHANGE_BG_COLOR TO "lightgray"
+#Adding the window
+WINDOW("Windows name")
+LABEL("Label")
+BUTTON("Button")
+
 ```
 
 ## 🛠️ Built With
