@@ -1,6 +1,5 @@
 # OnyxScript
 ![License](https://img.shields.io/badge/LICENSE-MIT-BLUE?style=for-the-badge&label=Lisense&labelColor=blue&color=blue
-) ![Status(https://img.shields.io/badge/LICENSE-MIT-BLUE?style=for-the-badge&label=Lisense&labelColor=blue&color=blue
 )
 An ultra-modern, lightweight, and easy-to-use language designed for building applications quickly. Write powerful software in just 10 lines of code using clear, English-like syntax.
 
