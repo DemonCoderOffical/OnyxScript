@@ -53,4 +53,4 @@ CHANGE_BG_COLOR TO "lightgray"
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ## Thank you for installing OnyxScript
 ## Support us!
-found any bug report it in [Here](demoncoderoffical.github.io/submit)
+found any bug report it in [Here](https://demoncoderoffical.github.io/submit)
