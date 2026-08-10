@@ -57,5 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Thank you for installing OnyxScript
 ## Support us!
 found any bug report it [Here](https://VoidCoderStudio.github.io/submit)
-## Watch the vedio
-[What is OnyxScript](https://github.com/VoidCoderStudio/OnyxScript/demo.mp4)
+## 📺 Watch the Video
+
+> **Note:** Since the video file is large, you can view or download it directly in raw format here:
+> [👉 Click here to watch / view raw](https://github.com/VoidCoderStudio/OnyxScript/raw/main/demo.mp4)
