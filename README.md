@@ -18,8 +18,9 @@ To execute OnyxScript, you need to have Python installed on your machine.
 ### Installation
 Clone this repository directly to your workspace:
 ```bash
-git clone https://github.com
+git clone https://github.com/DemonCoderOffical/OnyxScript
 cd OnyxScript
+OnyxScript <yourfilehere>.os
 ```
 
 ### Running Your First Script
@@ -31,7 +32,7 @@ python onyx.py
 
 ## 📝 Example Syntax
 
-```text
+```OnyxScript
 // Example OnyxScript code
 WINDOW("Windows name")
 LABEL("Label")
